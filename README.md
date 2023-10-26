@@ -1,0 +1,2 @@
+# crud-faried
+praktikum crud 
